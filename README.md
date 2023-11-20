@@ -16,10 +16,10 @@ Tecnologias que utilizo: | Technologies I use:
   
 
 <div><br>
-  <a href="mailto:arthurvinice@gmail.com">  
-    <img align="center" alt="Arthur-Gmail" height="30" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href = "mailto:arthurvinice@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/arthurfmacedo/">
-    <img align="center" alt="Arthur-Linkedin" height="30" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+   <a href="https://www.linkedin.com/in/arthurfmacedo/" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a>
 </div>
