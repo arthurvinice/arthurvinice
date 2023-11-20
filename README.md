@@ -1,4 +1,6 @@
-### Hi there 👋
+Olá! Me chamo Arthur Vinícius! | Hello! My name is Arthur Vinícius!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvinice)](https://github.com/arthurvinice/github-readme-stats)
 
 <!--
 **arthurvinice/arthurvinice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
