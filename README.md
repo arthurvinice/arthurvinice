@@ -6,7 +6,7 @@ Sou estudante do 2º período do curso de Tecnologia em Sistemas para Internet |
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvinice)](https://github.com/arthurvinice/github-readme-stats)
 
 Tecnologias que utilizo: | Technologies I use:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
