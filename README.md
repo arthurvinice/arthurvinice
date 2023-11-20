@@ -1,6 +1,6 @@
-Olá! Me chamo Arthur Vinícius! | Hello! My name is Arthur Vinícius!
+<h2>Olá! Me chamo Arthur Vinícius! | Hello! My name is Arthur Vinícius!</h2>
 
-Sou estudante do 2º período do curso de Tecnologia em Sistemas para Internet | I am a student of the Web Systems Technology course.
+<h4>Sou estudante do 2º período do curso de Tecnologia em Sistemas para Internet | I am a student of the Web Systems Technology course.</h4>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvinice)](https://github.com/arthurvinice/github-readme-stats)
