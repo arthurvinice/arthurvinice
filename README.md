@@ -1,10 +1,11 @@
 Olá! Me chamo Arthur Vinícius! | Hello! My name is Arthur Vinícius!
 
-
+Sou estudante do 2º período do curso de Tecnologia em Sistemas para Internet | I am a student of the Web Systems Technology course.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvinice)](https://github.com/arthurvinice/github-readme-stats)
-https://github-readme-stats.vercel.app/api/top-langs/?username={arthurvinice}&theme=blue-green
+
+Tecnologias que utilizo: | Technologies I use:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
