@@ -7,7 +7,7 @@
 
    ##
 
-Tecnologias que utilizo: | Technologies I use:
+Tecnologias que estudo atualmente: | Technologies I'm studying currently:
 <div style="display: inline_block">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
