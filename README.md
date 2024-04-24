@@ -1,31 +1,21 @@
-<h2>Olá! Me chamo Arthur Vinícius! | Hello! My name is Arthur Vinícius!</h2>
+<h2>Welcome!</h2>
 
-<h4>Sou estudante do 3º período do curso de Tecnologia em Sistemas para Internet, no IFRN. | I am a student of the Web Systems Technology course at IFRN.</h4>
+Hello, my name is Arthur. I'm a Brazilian programming student currently pursuing an associate's degree, and this is my portfolio. I have a strong passion for programming, especially in the areas of backend development and data analysis. My primary programming languages are Python and C++, and I also use JavaScript occasionally. Furthermore, I'm familiar with technologies such as Node.js, MongoDB, and PostgreSQL.
 
+This year (2024), I'm focusing on networking and expanding my knowledge of Node.js and MongoDB. Additionally, I intend to write some technical articles throughout the year and share them on [Medium](https://medium.com/@arthurvinice). Check it out!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvinice)](https://github.com/arthurvinice/github-readme-stats)
+##
 
-   ##
+Outside of coding, I enjoy some hobbies:
 
-Tecnologias que estudo atualmente: | Technologies I'm studying currently:
-<div style="display: inline_block">
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div><br>
-  
-   ##
- 
-<div style="display: inline_block"><br>
-  <a href = "mailto:arthurvinice@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-   <a href="https://www.linkedin.com/in/arthurfmacedo/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   </a>
-  <a href="https://instagram.com/arthurvinice" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</div>
+* Studying
+* Playing online games
+* Listening to music
+* Playing piano and guitar
+* Learning new languages
+* Practicing volleyball
+
+##
+
+Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/arthurfmacedo/) if you'd like to connect or collaborate!
+
