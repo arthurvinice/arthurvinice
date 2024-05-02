@@ -1,4 +1,4 @@
-<h2>Welcome!</h2>
+<h2>Welcome!  👋</h2>
 
 Hello, my name is Arthur. I'm a Brazilian programming student currently pursuing an associate's degree, and this is my portfolio. I have a strong passion for programming, especially in the areas of backend development and data analysis. My primary programming languages are Python and C++, and I also use JavaScript occasionally. Furthermore, I'm familiar with technologies such as Node.js, MongoDB, and PostgreSQL.
 
@@ -6,7 +6,7 @@ This year (2024), I'm focusing on networking and expanding my knowledge of Node.
 
 ##
 
-Outside of coding, I enjoy some hobbies:
+👍 Outside of coding, I enjoy some hobbies:
 
 * Studying
 * Playing online games
@@ -17,5 +17,9 @@ Outside of coding, I enjoy some hobbies:
 
 ##
 
-Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/arthurfmacedo/) if you'd like to connect or collaborate!
+⭐ What I've already done:
+
+##
+
+✉️ Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/arthurfmacedo/) if you'd like to connect or collaborate!
 
