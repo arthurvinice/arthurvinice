@@ -18,6 +18,9 @@ This year (2024), I'm focusing on networking and expanding my knowledge of Node.
 ##
 
 ⭐ What I've already done:
+* [Guess the Word (Hangman)](https://github.com/arthurvinice/guess-word-game)
+* [Piano Online](https://github.com/arthurvinice/grand-piano-site)
+* [Pong Game](https://github.com/arthurvinice/PONG_CPP)
 
 ##
 
