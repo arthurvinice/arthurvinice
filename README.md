@@ -1,6 +1,6 @@
 <h2>Welcome!  👋</h2>
 
-Hello, my name is Arthur. I'm a Brazilian programming student currently pursuing an associate's degree, and this is my portfolio. I have a strong passion for programming, especially in the areas of backend development and data analysis. My primary programming languages are Python and C++, and I also use JavaScript occasionally. Furthermore, I'm familiar with technologies such as Node.js, MongoDB, and PostgreSQL.
+Hello, my name is Arthur. I'm a Brazilian programming student currently pursuing an associate's degree, and this is my portfolio. I have a strong passion for programming, especially in the areas of backend development and data analysis. My primary programming languages are Python and Javascript and I also use C++ occasionally. Furthermore, I'm familiar with technologies such as Node.js, MongoDB, and PostgreSQL.
 
 This year (2024), I'm focusing on networking and expanding my knowledge of Node.js and MongoDB. Additionally, I intend to write some technical articles throughout the year and share them on [Medium](https://medium.com/@arthurvinice). Check it out!
 
