@@ -21,7 +21,8 @@ This year (2025), I'm focusing on networking and expanding my knowledge of PHP a
 My main work is this public administration management system for municipalities and government entities:
 * [Gestão House](https://gestao-prefeitura.laravel.cloud/)
 * [System printscreens]()
-Other projects I've worked on include:
+  
+💻 Other projects I've worked on include:
 * [Guess the Word (Hangman)](https://github.com/arthurvinice/guess-word-game)
 * [Piano Online](https://github.com/arthurvinice/grand-piano-site)
 * [Pong Game](https://github.com/arthurvinice/PONG_CPP)
