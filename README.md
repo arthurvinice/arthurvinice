@@ -2,7 +2,7 @@
 
 Hello, my name is Arthur. I'm a Brazilian programming student currently pursuing an associate's degree, and this is my portfolio. I have a strong passion for programming, especially in backend development. My primary programming language is PHP, using Laravel and Livewire framework, and I also use Javascript and Python occasionally. Furthermore, I have experience with technologies such as AdonisJS, NestJS, SQLite, PostgreSQL, Git, GitFlow and GitHub. Also, I'm familiar with MongoDB, MySQL, NodeJS and ExpressJS.
 
-This year (2025), I'm focusing on networking and expanding my knowledge of PHP and Laravel. Additionally, I intend to write some technical articles throughout the year and share them on [Medium](https://medium.com/@arthurvinice). Check it out!
+This year (2025), I'm focusing on networking and expanding my knowledge of PHP, Laravel and Livewire. Additionally, I intend to write some technical articles throughout the year and share them on [Medium](https://medium.com/@arthurvinice). Check it out!
 
 ##
 
