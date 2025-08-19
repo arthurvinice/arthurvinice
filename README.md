@@ -4,7 +4,7 @@ Hello, my name is Arthur. I'm a Brazilian programming student currently pursuing
 
 This year (2025), I'm focusing on networking and expanding my knowledge of PHP, Laravel and Livewire. Additionally, I intend to write some technical articles throughout the year and share them on [Medium](https://medium.com/@arthurvinice). Check it out!
 
-##
+##9
 
 👍 Outside of coding, I enjoy some hobbies:
 
