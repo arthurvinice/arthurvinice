@@ -13,8 +13,6 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=flat&logo=livewire)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -29,10 +27,15 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 ## Latest Articles
 - [Sorting Algorithms Performances](https://medium.com/@arthurvinice/exploring-sorting-algorithms-performance-a-study-on-runtime-variations-87446bef6503)
 - [The Importance of Laravel Fortify](https://medium.com/@arthurvinice/the-importance-of-laravel-fortify-in-modern-web-applications-e720093038e8)
+
+## What doing now?
+- Currently working on [House Criative](https://github.com/House-Criative) as a Backend Developer.
+- 
   
 ## My Stats
 <p>
