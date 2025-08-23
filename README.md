@@ -37,8 +37,8 @@
 ## My Stats
 <p>
 <a href="https://github.com/arthurvinice">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvinice&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arthurvinice&theme=transparent&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvinice&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arthurvinice&theme=tokyonight&layout=compact"/>
 </a>
 </p>
 
