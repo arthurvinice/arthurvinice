@@ -35,7 +35,6 @@
 
 ## What doing now?
 - Currently working on [House Criative](https://github.com/House-Criative) as a Backend Developer.
-- 
   
 ## My Stats
 <p>
