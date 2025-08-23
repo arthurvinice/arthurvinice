@@ -30,12 +30,9 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-##
-
-⭐ What I've already done:
-My main work is this public administration management system for municipalities and government entities:
-* [Gestão House](https://pmcn.gestaohouse.com.br/)
-* [System printscreens](https://imgur.com/a/F5LaVqN)
+## Latest Articles
+- [Sorting Algorithms Performances](https://medium.com/@arthurvinice/exploring-sorting-algorithms-performance-a-study-on-runtime-variations-87446bef6503)
+- [The Importance of Laravel Fortify](https://medium.com/@arthurvinice/the-importance-of-laravel-fortify-in-modern-web-applications-e720093038e8)
   
 💻 Other projects I've worked on include:
 * [Guess the Word (Hangman)](https://github.com/arthurvinice/guess-word-game)
