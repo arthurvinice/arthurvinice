@@ -37,14 +37,11 @@
 ## My Stats
 <p>
 <a href="https://github.com/arthurvinice">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvinice&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arthurvinice&theme=dracula&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvinice&show_icons=true&theme=transparent " />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arthurvinice&theme=transparent &layout=compact" />
 </a>
 </p>
-
 
 ##
 
 ✉️ Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/arthurfmacedo/) if you'd like to connect or collaborate!
-
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvinice)](https://github.com/anuraghazra/github-readme-stats)
