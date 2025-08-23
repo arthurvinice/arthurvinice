@@ -34,10 +34,14 @@
 - [Sorting Algorithms Performances](https://medium.com/@arthurvinice/exploring-sorting-algorithms-performance-a-study-on-runtime-variations-87446bef6503)
 - [The Importance of Laravel Fortify](https://medium.com/@arthurvinice/the-importance-of-laravel-fortify-in-modern-web-applications-e720093038e8)
   
-💻 Other projects I've worked on include:
-* [Guess the Word (Hangman)](https://github.com/arthurvinice/guess-word-game)
-* [Piano Online](https://github.com/arthurvinice/grand-piano-site)
-* [Pong Game](https://github.com/arthurvinice/PONG_CPP)
+## My Stats
+<p>
+<a href="https://github.com/arthurvinice">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvinice&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arthurvinice&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
 
 ##
 
