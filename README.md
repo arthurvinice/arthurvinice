@@ -26,9 +26,9 @@ My main work is this public administration management system for municipalities 
 * [Guess the Word (Hangman)](https://github.com/arthurvinice/guess-word-game)
 * [Piano Online](https://github.com/arthurvinice/grand-piano-site)
 * [Pong Game](https://github.com/arthurvinice/PONG_CPP)
-* [+Saúde IFRN](https://github.com/delellisc/projetoIntegrador)
 
 ##
 
 ✉️ Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/arthurfmacedo/) if you'd like to connect or collaborate!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvinice)](https://github.com/anuraghazra/github-readme-stats)
