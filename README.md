@@ -1,19 +1,11 @@
-<h2>Welcome to my profile!👋</h2>
+### Welcome to my profile!👋
 
-Hello, my name is Arthur. I'm a Brazilian programming student currently pursuing an associate's degree, and this is my portfolio. I have a strong passion for programming, especially in backend development. My primary programming language is PHP, using Laravel and Livewire framework, and I also use Javascript and Python occasionally. Furthermore, I have experience with technologies such as AdonisJS, NestJS, SQLite, PostgreSQL, Git, GitFlow and GitHub. Also, I'm familiar with MongoDB, MySQL, NodeJS and ExpressJS.
+## Hi there! I'm Arthur.
 
-This year (2025), I'm focusing on networking and expanding my knowledge of PHP, Laravel and Livewire. Additionally, I intend to write some technical articles throughout the year and share them on [Medium](https://medium.com/@arthurvinice). Check it out!
+### 💻 About Me
 
-##
-
-👍 Outside of coding, I enjoy some hobbies:
-
-* Studying
-* Playing online games
-* Listening to music
-* Playing piano and guitar
-* Learning new languages
-* Practicing volleyball
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
 
 ##
 
@@ -31,4 +23,4 @@ My main work is this public administration management system for municipalities 
 
 ✉️ Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/arthurfmacedo/) if you'd like to connect or collaborate!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvinice)](https://github.com/anuraghazra/github-readme-stats)
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvinice)](https://github.com/anuraghazra/github-readme-stats)
