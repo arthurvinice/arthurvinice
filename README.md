@@ -27,7 +27,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 ## Latest Articles
 - [Sorting Algorithms Performances](https://medium.com/@arthurvinice/exploring-sorting-algorithms-performance-a-study-on-runtime-variations-87446bef6503)
