@@ -35,14 +35,6 @@
 ## What I'm doing now?
 - Currently working on [House Criative](https://github.com/House-Criative) as a Backend Developer. We develop and maintain software solutions for public and private management. For now, we have two management systems and one customized support ticketing system. I actively participate in all stages of the software development lifecycle, contributing to both development and best practices. I also have a strong affinity with the Scrum methodology.
   
-## My Stats
-<p>
-<a href="https://github.com/arthurvinice">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvinice&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arthurvinice&theme=tokyonight&layout=compact"/>
-</a>
-</p>
-
 ##
 
 ✉️ Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/arthurfmacedo/) if you'd like to connect or collaborate!
