@@ -5,7 +5,7 @@
 ### 💻 About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Development at IFRN/Brasil.
+- 🎓 &nbsp; Graduated Software Developer at IFRN/Brazil.
 
 ### 🛠 &nbsp;Tech Stack
 
