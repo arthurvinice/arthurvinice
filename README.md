@@ -33,7 +33,7 @@
 - [The Importance of Laravel Fortify](https://medium.com/@arthurvinice/the-importance-of-laravel-fortify-in-modern-web-applications-e720093038e8)
 
 ## What I'm doing now?
-- Currently working with [House Criative](https://github.com/House-Criative) as a Backend Developer. We develop and maintain software solutions for public and private management. For now, we have two management systems for public services, a cashback system and one customized support ticket system. I actively participate in all stages of the software development lifecycle, contributing to both development and best practices. I also have a strong affinity with the Scrum methodology.
+- Currently working with [House Criative](https://github.com/House-Criative) as a FullStack Developer/System Designer. We develop and maintain software solutions for public and private management. For now, we have two management systems for public services, a cashback system and one customized support ticket system. I actively participate in all stages of the software development lifecycle, contributing to both development and best practices. I also have a strong affinity with the Scrum methodology.
   
 ##
 
